@@ -1,0 +1,1 @@
+just run ```node tickingTime.js```
